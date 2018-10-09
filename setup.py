@@ -22,7 +22,7 @@ setup(
     url='https://github.com/cmateu/galstreams',
     license='LICENSE',
     description='MW stream library toolkit',
-    long_description=open('README.md').read(),
+#    long_description=open('README.md').read(),
     install_requires=[
       "numpy",
       "scipy"
